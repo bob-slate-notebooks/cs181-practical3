@@ -7,3 +7,5 @@ paper 3: http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf
 lili’s advice: http://sifter.org/~simon/journal/20061211.html
 
 Matrix factorization: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+
+sklearn nmf: http://www.csie.ntu.edu.tw/~cjlin/papers/pgradnmf.pdf
